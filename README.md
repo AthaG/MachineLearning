@@ -1,2 +1,2 @@
-# MachineLearning
-Maschine Learning Basics
+# Machine Learning
+This repo contains basic Machine Learning techniques
